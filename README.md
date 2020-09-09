@@ -24,9 +24,17 @@
         作者用的是8线程加载数据，我的小破机吃不消，会报错，改成了单线程
         batch_size已经设置为1，如果CUDA显存还是爆，不要去修batch_size
         作者的把模型的一部分直接命名为VGG,但是这根本不是VGG，而且参数的键名与下载的VGG16参数都对不上，不能直接调用参数加载
-       
-       
-  模型过程截图：
-              ![image](https://github.com/BorHon/AS-Net--pytorch/blob/master/train.PNG)
+  
+  
+ 感谢戴冰燕同学的理解，我会平衡好工作时间，不要生气。
+ 
+  
+  
+ 
+ 训练截图：
+  
+  
+  
+ ![image](https://github.com/BorHon/AS-Net--pytorch/blob/master/train.PNG)
    
        
