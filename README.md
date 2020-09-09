@@ -1,4 +1,4 @@
-# AS-Net-
+# AS-Net-pytorch
 这份代码是对于CVPR 2020 Attention Scaling for Crowd Counting的复现
 
 
@@ -26,7 +26,9 @@
         作者的把模型的一部分直接命名为VGG,但是这根本不是VGG，而且参数的键名与下载的VGG16参数都对不上，不能直接调用参数加载
        
        
-      
+  模型训练截图：
+        
+         
        
        
        
