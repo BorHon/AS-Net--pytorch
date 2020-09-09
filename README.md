@@ -27,7 +27,7 @@
        
        
   模型训练截图：
-       ![image](train.PNG)
+       ![image](https://github.com/BorHon/AS-Net--pytorch/blob/master/train.PNG)
        
    
        
