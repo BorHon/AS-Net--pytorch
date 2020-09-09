@@ -26,8 +26,7 @@
         作者的把模型的一部分直接命名为VGG,但是这根本不是VGG，而且参数的键名与下载的VGG16参数都对不上，不能直接调用参数加载
        
        
-  模型训练截图：
-       ![image](https://github.com/BorHon/AS-Net--pytorch/blob/master/train.PNG)
-       
+  模型过程截图：
+              ![image](https://github.com/BorHon/AS-Net--pytorch/blob/master/train.PNG)
    
        
