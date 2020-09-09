@@ -27,7 +27,7 @@
        
        
   模型训练截图：
-       ![image](/train.PNG)
+       ![image](train.PNG)
        
    
        
